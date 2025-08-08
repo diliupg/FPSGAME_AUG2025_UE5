@@ -1,0 +1,7 @@
+Difficulty,PlayerHealthMultiplier,PlayerDamageMultiplier,EnemyHealthMultiplier,EnemyDamageMultiplier,HealthPickupMultiplier
+Baby,1.8,2,0.5,0.5,1.75
+Easy,1.5,1.2,0.75,0.75,1.5
+Medium,1.0,1.0,1.0,1.0,1.0
+Hard,0.8,0.8,1.5,1.2,0.8
+Nightmare,0.5,0.8,1.5,1.5,0.5
+
